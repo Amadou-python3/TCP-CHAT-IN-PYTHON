@@ -179,7 +179,3 @@ Nine: What's up?
 Neural: Not much! How about you?
 Same! Gotta Go! Bye!
 Nine: Same! Gotta Go! Bye!
-
-
-As you can see, it works very well! You can now modify and customize your chat however you want. Maybe you want to have multiple chat rooms or maybe you want to have different roles like admin and moderator. Be creative!
-I hope you enjoyed this tutorial and you learned something. If you are interested in a GUI version of this chat, please leave a comment. It works quite differently, since it works more with events than with endless loops. Also, if you want to tell me something or ask questions, feel free to ask in the comments! Check out my instagram page or the other parts of this website, if you are interested in more! Stay tuned!
